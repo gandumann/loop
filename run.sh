@@ -4,7 +4,7 @@
 swapon --show
 
 # runn sksjd jdjs
-fallocate -l 4G /swapfile
+fallocate -l 15G /swapfile
 
 # run jsksbbeh sh
 chmod 600 /swapfile
